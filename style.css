@@ -1,0 +1,32 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+}
+
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(204, 196, 212);
+}
+
+.row{
+    margin: 10px 0;
+     
+}
+.row input{
+    width: 170px;
+    font-size: 14px; 
+    margin: 0 ;
+    padding: 10px 70px;
+    border-radius: 5px;
+    background-color: rgb(205, 198, 211);
+}
+.container{
+    width: fit-content
+};
+
+
